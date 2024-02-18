@@ -71,6 +71,11 @@ header .cart-size-circle {
   background-color: #853B5C;
 }
 
+header .navbar {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
 header .h-free-shipping {
   font-size: 14px;
 }
@@ -423,6 +428,19 @@ similar to that of the hot-products-row.
   line-height: 1.14;
   font-weight: normal;
   color: #111111;
+}
+
+.h-product .product-packaging {
+  margin: 0 0 15px 0;
+}
+
+.h-product .product-packaging h3 {
+  font-size: 20px;
+}
+
+.h-product .product-packaging span {
+  display: inline-block;
+  margin: 0 10px 0 0;
 }
 
 .h-product .input-group-text,
